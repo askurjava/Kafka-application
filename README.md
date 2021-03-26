@@ -11,5 +11,7 @@ Commands for windows
 .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic testTopic--from-beginning 
 
 Actuator:
-http://localhost:8080/actuator
-http://localhost:8080/actuator/health
+============
+# http://localhost:8080/actuator
+
+# http://localhost:8080/actuator/health
